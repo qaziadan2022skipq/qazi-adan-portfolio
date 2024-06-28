@@ -16,6 +16,7 @@ import {
     nextjs,
     nodejs,
     pricewise,
+    rachel,
     react,
     redux,
     sass,
@@ -111,11 +112,11 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "MERN Stack Trainee",
-        company_name: "SkipQ",
-        icon: skipq,
-        iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        title: "Co-Founder and Web developer",
+        company_name: "PITB",
+        icon: pitb,
+        iconBg: "#fbc3bc",
+        date: "Dec 2022 - Sep 2022",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -124,11 +125,11 @@ export const experiences = [
         ],
     },
     {
-        title: "Co-Founder and Web developer",
-        company_name: "PITB",
-        icon: pitb,
-        iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        title: "MERN Stack Trainee",
+        company_name: "SkipQ",
+        icon: skipq,
+        iconBg: "#accbe1",
+        date: "Dec 2022 - Aug 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -141,7 +142,7 @@ export const experiences = [
         company_name: "Fiverr",
         icon: fiverr,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "Nov 2023 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -160,43 +161,43 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/qaziadan2022skipq',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/qazi-adan-hidayat-800b94204/',
     }
 ];
 
 export const projects = [
     {
-        iconUrl: pricewise,
+        iconUrl: rachel,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Rachel - AI SaaS Web App',
+        description: 'Developed a SaaS web application that use OpenAI and has 8+ tools that make dailylife better.',
+        link: 'https://www.rachel.app',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'Education - AI SaaS Application',
+        description: 'Created a full-stack AI SaaS web application for a client that help student in education and learning.',
+        link: 'https://github.com/qaziadan2022skipq/education_ai-saas',
     },
-    {
-        iconUrl: car,
-        theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
-    },
+    // {
+    //     iconUrl: car,
+    //     theme: 'btn-back-blue',
+    //     name: 'Car Finding App',
+    //     description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
+    //     link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+    // },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: 'Rest API - Node and Typescript',
+        description: 'Built a complete backend with CRUD operation in Nodejs and Typescript.',
+        link: 'https://github.com/qaziadan2022skipq/rest_api_ts',
     },
     {
         iconUrl: estate,

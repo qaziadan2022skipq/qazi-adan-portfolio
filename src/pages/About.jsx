@@ -75,6 +75,7 @@ const About = () => {
                   borderStyle: "solid",
                   borderBottomColor: experience.iconBg,
                   boxShadow: "none",
+                  
                 }}
               >
                 <div>
