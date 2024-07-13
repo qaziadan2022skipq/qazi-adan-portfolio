@@ -4,6 +4,8 @@ import shopify from './shopify.png'
 import skipq from './skipq.png'
 import pitb from './pitb.png'
 import logo from './logo.svg'
+import Adan from "./Adan.png"
+import audiovat from "./audiovat.png"
 
 export {
     hero,
@@ -11,5 +13,7 @@ export {
     shopify,
     skipq,
     logo,
-    pitb
+    pitb,
+    Adan,
+    audiovat
 }
